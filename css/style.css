@@ -36,3 +36,11 @@ body{
 #pos{
     padding: 1em;
 }
+
+#footer{
+    margin-top: 50px;
+    text-align: center;
+    background: #777;
+    color: white;
+    padding: 0.3em;
+}
